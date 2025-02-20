@@ -39,7 +39,8 @@ Welcome to my GitHub profile! I'm an MCA student passionate about AI/ML, softwar
 ### 📌 Featured Projects  
 [![Spotify Clone](https://img.shields.io/badge/Spotify%20Clone-%2300FF00?style=for-the-badge&logo=spotify&logoColor=white)](https://github.com/Tech-By-Ayushi/Spotify-Clone)  
 [![Banking Management System](https://img.shields.io/badge/Banking%20System-%23008080?style=for-the-badge&logo=java&logoColor=white)](https://github.com/Tech-By-Ayushi/Banking-Management)  
-[![DSA](https://img.shields.io/badge/DSA-%23FF4500?style=for-the-badge&logo=data&logoColor=white)](https://github.com/Tech-By-Ayushi/DSA)
+[![DSA](https://img.shields.io/badge/DSA-%23FF4500?style=for-the-badge&logo=data&logoColor=white)](https://github.com/Tech-By-Ayushi/DSA)  
+[![C Language Projects](https://img.shields.io/badge/C%20Language%20Projects-%23007ACC?style=for-the-badge&logo=c&logoColor=white)](https://github.com/Tech-By-Ayushi/C-Language-Projects)  
 
 ---
 
