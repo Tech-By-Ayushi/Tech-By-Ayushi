@@ -4,10 +4,7 @@ Welcome to my GitHub profile! I'm an MCA student passionate about AI/ML, softwar
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F75C7E&width=435&lines=Full-Stack+Web+Developer;AI+Enthusiast+%7C+ML+Explorer;Building+Smart+Web+Apps)](https://git.io/typing-svg)
 
-
----
 
 ### 🚀 About Me:
 - 🎓 MCA Student with a background in Physics, Math & Computer Science.
@@ -52,7 +49,7 @@ Welcome to my GitHub profile! I'm an MCA student passionate about AI/ML, softwar
 
 
 ### 📌 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)]([https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/](https://www.linkedin.com/in/ayushi-sharma-7a9422253?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)]((https://www.linkedin.com/in/ayushi-sharma-7a9422253?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
 
 
 
