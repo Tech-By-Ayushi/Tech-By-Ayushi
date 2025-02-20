@@ -19,10 +19,14 @@ Welcome to my GitHub profile! I'm an MCA student passionate about AI/ML, softwar
 ---
 
 ### 🏆 GitHub Stats  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tech-By-Ayushi&theme=radical&hide_border=true)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tech-By-Ayushi&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tech-By-Ayushi&layout=compact&theme=radical)
-![GitHub Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tech-By-Ayushi&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tech-By-Ayushi&theme=radical&hide_border=true)](https://github.com/Tech-By-Ayushi)  
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tech-By-Ayushi&show_icons=true&theme=radical)](https://github.com/Tech-By-Ayushi)  
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tech-By-Ayushi&layout=compact&theme=radical)](https://github.com/Tech-By-Ayushi)  
+
+[![GitHub Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tech-By-Ayushi&theme=radical)](https://github.com/Tech-By-Ayushi)  
+
 
 
 
