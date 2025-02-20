@@ -17,7 +17,6 @@ Welcome to my GitHub profile! I'm an MCA student passionate about AI/ML, softwar
 ---
 
 ### 🏆 GitHub Stats  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tech-By-Ayushi&theme=radical&hide_border=true)  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tech-By-Ayushi&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tech-By-Ayushi&layout=compact&theme=radical)
 
@@ -42,10 +41,6 @@ Welcome to my GitHub profile! I'm an MCA student passionate about AI/ML, softwar
 [![DSA](https://img.shields.io/badge/DSA-%23FF4500?style=for-the-badge&logo=data&logoColor=white)](https://github.com/Tech-By-Ayushi/DSA)  
 [![C Language Projects](https://img.shields.io/badge/C%20Language%20Projects-%23007ACC?style=for-the-badge&logo=c&logoColor=white)](https://github.com/Tech-By-Ayushi/C-Language-Projects)  
 
----
-
-### 🌐 Visitor Counter  
-![Visitor Count](https://komarev.com/ghpvc/?username=Tech-By-Ayushi&color=brightgreen)
 
 ---
 
