@@ -45,8 +45,7 @@ Welcome to my GitHub profile! I'm an *MCA student* with a strong passion for *AI
 
 ---
 
-### 🤝 Let's Connect!
-- 🔗 [LinkedIn](https://www.linkedin.com/in/ayushi-sharma/)
+
 
 
 Let's collaborate and build something amazing together! 🚀
