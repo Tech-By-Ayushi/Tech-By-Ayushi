@@ -1,6 +1,6 @@
 ### Hi there, I'm Ayushi! 👋
 
-Welcome to my GitHub profile! I'm an MCA student passionate about AI/ML, software development, and full-stack development. I enjoy working on projects that involve *C, Java, Python, DSA, and system design*.
+Welcome to my GitHub profile! I'm an MCA student passionate about AI/ML, software development, and full-stack development. I enjoy working on projects that involve *C, Java, Python, Web Design and system design*.
 
 ---
 
