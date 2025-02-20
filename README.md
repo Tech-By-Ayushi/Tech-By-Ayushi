@@ -48,13 +48,6 @@ Welcome to my GitHub profile! I'm an MCA student passionate about AI/ML, softwar
 ---
 
 
-### 📌 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)]((https://www.linkedin.com/in/ayushi-sharma-7a9422253?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
-
-
-
-
----
 ### 🌐 Visitor Counter  
 ![Visitor Count](https://komarev.com/ghpvc/?username=Tech-By-Ayushi&color=brightgreen)
 
