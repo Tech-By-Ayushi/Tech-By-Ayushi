@@ -11,41 +11,33 @@ Welcome to my GitHub profile! I'm an *MCA student* with a strong passion for *AI
 
 ---
 
-### 🛠️ Tech Stack:
-#### *Programming Languages:*
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-#### *Development & Tools:*
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-#### *Web & Database:*
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+### 🏆 GitHub Stats  
+![GitHub Streak](https://streak-stats.demolab.com/?user=Tech-By-Ayushi&theme=radical&hide_border=true)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tech-By-Ayushi&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tech-By-Ayushi&layout=compact&theme=radical)  
 
 ---
 
-### 🔥 My GitHub Stats:
-![Ayushi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tech-By-Ayushi&show_icons=true&theme=radical)
+### 🔥 Tech Stack
+#### *Languages & Frameworks:*  
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tech-By-Ayushi&layout=compact&theme=radical)
-
----
-
-### 📌 Featured Projects:
-- 🎵 *Spotify Clone* - A music streaming UI.
-- 💳 *Banking Management System* - A Java-based banking app.
-- 💻 *C Language Projects* - Various C programs and mini-projects.
-
-📌 Check out my repositories to explore more!
+#### *Tools & Platforms:*  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)  
 
 ---
 
+### 📌 Featured Projects  
+[![Spotify Clone](https://img.shields.io/badge/Spotify%20Clone-%2300FF00?style=for-the-badge&logo=spotify&logoColor=white)](https://github.com/Tech-By-Ayushi/Spotify-Clone)  
+[![Banking Management System](https://img.shields.io/badge/Banking%20System-%23008080?style=for-the-badge&logo=java&logoColor=white)](https://github.com/Tech-By-Ayushi/Banking-Management)  
+[![DSA](https://img.shields.io/badge/DSA-%23FF4500?style=for-the-badge&logo=data&logoColor=white)](https://github.com/Tech-By-Ayushi/DSA)  
 
+---
 
+ 
 
-Let's collaborate and build something amazing together! 🚀
+🚀 Let's collaborate and build something amazing!
