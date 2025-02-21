@@ -19,7 +19,8 @@ Welcome to my GitHub profile! I'm an MCA student passionate about AI/ML, softwar
 ---
 
 ### 🏆 GitHub Stats  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tech-By-Ayushi&theme=radical&hide_border=true)](https://github.com/Tech-By-Ayushi)  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tech-By-Ayushi&theme=radical&hide_border=true)](https://github.com/Tech-By-Ayushi)
+  
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tech-By-Ayushi&show_icons=true&theme=radical)](https://github.com/Tech-By-Ayushi)  
 
