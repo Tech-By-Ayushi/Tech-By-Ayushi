@@ -1,3 +1,9 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Ayushi!;Welcome+to+my+GitHub+Profile!;I+am+an+MCA+student.;passionate+about+AI/ML+and+Full+Stack+Development.&font=Fira+Code&size=30&color=FF5733&width=900&speed=30&center=true)](https://git.io/typing-svg)
+
+
+
+
+
 ### Hi there, I'm Ayushi! 👋
 
 Welcome to my GitHub profile! I'm an MCA student passionate about AI/ML, software development, and full-stack development. I enjoy working on projects that involve *C, Java, Python, Web Design, System Design, and the MERN stack*.
